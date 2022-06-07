@@ -1,1 +1,1 @@
-# miniature-carnival
+# E-Book Management System using Java and Oracle
